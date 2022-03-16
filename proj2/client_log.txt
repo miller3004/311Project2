@@ -1,0 +1,1 @@
+bash: ./text-client: No such file or directory

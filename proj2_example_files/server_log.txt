@@ -1,0 +1,6 @@
+SERVER STARTED
+	MAX CLIENTS: 7
+CLIENT CONNECTED
+PATH: "dat/anna_karenina.txt"
+SEEKING: "you m"
+BYTES SENT: 7980
